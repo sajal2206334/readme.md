@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajal2206334" alt="sajal2206334" /></a> </p>
 
-- 🔭 I’m currently working on **Something Remaining**
+- 🔭 I’m currently working on **Something Remaining App**
 
 - 🌱 I’m currently learning **Android app development courses**
 
